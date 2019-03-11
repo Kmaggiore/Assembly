@@ -1,0 +1,8 @@
+Hello
+Enter integer: 5
+Integer entered is: 5
+Enter name: Kendra Maggiore
+Your name is: Kendra Maggiore
+
+Enter gender: FYour gender is: F
+-- program is finished running --

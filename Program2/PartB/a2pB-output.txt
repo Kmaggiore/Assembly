@@ -1,0 +1,71 @@
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 0
+Integer entered is of type 1
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 31
+Integer entered is of type 1
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 32
+Integer entered is of type 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 63
+Integer entered is of type 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 15
+Integer entered is of type 1
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 50
+Integer entered is of type 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 35
+Integer entered is of type 0
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 12
+Integer entered is of type 1
+-- program is finished running --
+
+
+Reset: reset completed.
+
+1 for <=31,  0 for >31
+Enter integer between 0 and 63 (inclusive): 40
+Integer entered is of type 0
+-- program is finished running --
