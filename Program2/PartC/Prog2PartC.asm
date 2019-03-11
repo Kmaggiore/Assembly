@@ -79,7 +79,7 @@ main:
 			sw $t2, 0($t0)
 			
 			lw $t3, 4($t0)
-			lw $t4, 16($t0)
+			lw $t4, 16($t0)		#swap 2nd and 5th elements of the array
 			sw $t3, 16($t0)
 			sw $t4, 4($t0)
 			
