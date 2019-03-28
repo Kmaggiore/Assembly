@@ -1,0 +1,68 @@
+Enter integer #1: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1
+processed a1: 1
+          a2: 1
+          a3: 1
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1 2
+processed a1: 1 2
+          a2: 1 2
+          a3: 1 2
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1 1
+processed a1: 1
+          a2: 1
+          a3: 1
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1 2 3
+processed a1: 1 2 3
+          a2: 1 2 3
+          a3: 1 2 3
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1 2 2
+processed a1: 1 2
+          a2: 1 2
+          a3: 1 2
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 1 1 1
+processed a1: 1
+          a2: 1
+          a3: 1
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) Enter integer #4: Enter more ints? (n or N = no, others = yes) Enter integer #5: Enter more ints? (n or N = no, others = yes) Enter integer #6: Enter more ints? (n or N = no, others = yes) Enter integer #7: Enter more ints? (n or N = no, others = yes) Enter integer #8: Enter more ints? (n or N = no, others = yes) Enter integer #9: Enter more ints? (n or N = no, others = yes) 
+beginning a1: 3 3 3 2 2 4 4 4 4
+processed a1: 3 2 4
+          a2: 3 2 4
+          a3: 3 2 4
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) Enter integer #4: Enter more ints? (n or N = no, others = yes) Enter integer #5: Enter more ints? (n or N = no, others = yes) Enter integer #6: Enter more ints? (n or N = no, others = yes) Enter integer #7: Enter more ints? (n or N = no, others = yes) Enter integer #8: Enter more ints? (n or N = no, others = yes) Enter integer #9: Enter more ints? (n or N = no, others = yes) Enter integer #10: Enter more ints? (n or N = no, others = yes) Enter integer #11: Enter more ints? (n or N = no, others = yes) Enter integer #12: Max of 12 ints entered...
+
+beginning a1: 1 1 1 2 2 2 3 3 3 4 4 4
+processed a1: 1 2 3 4
+          a2: 1 2 3 4
+          a3: 1 2 3 4
+
+Do another case? (n or N = no, others = yes) 
+Enter integer #1: Enter more ints? (n or N = no, others = yes) Enter integer #2: Enter more ints? (n or N = no, others = yes) Enter integer #3: Enter more ints? (n or N = no, others = yes) Enter integer #4: Enter more ints? (n or N = no, others = yes) Enter integer #5: Enter more ints? (n or N = no, others = yes) Enter integer #6: Enter more ints? (n or N = no, others = yes) Enter integer #7: Enter more ints? (n or N = no, others = yes) Enter integer #8: Enter more ints? (n or N = no, others = yes) Enter integer #9: Enter more ints? (n or N = no, others = yes) Enter integer #10: Enter more ints? (n or N = no, others = yes) Enter integer #11: Enter more ints? (n or N = no, others = yes) Enter integer #12: Max of 12 ints entered...
+
+beginning a1: 1 5 1 2 2 4 5 3 4 3 4 4
+processed a1: 1 5 2 4 3
+          a2: 1 5 2 4 3
+          a3: 1 5 2 4 3
+
+Do another case? (n or N = no, others = yes) 
+================================
+bye...
+================================
