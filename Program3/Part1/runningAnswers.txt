@@ -1,0 +1,33 @@
+vals to do? 4
+enter an int: 1
+enter an int: 2
+enter an int: 3
+enter an int: 4
+initial:
+1 2 3 4 
+flipped:
+4 3 2 1 
+do more? y
+vals to do? 0
+0 is bad, make it 1
+enter an int: 5
+initial:
+5 
+flipped:
+5 
+do more? y
+vals to do? 8
+8 is bad, make it 7
+enter an int: 7
+enter an int: 6
+enter an int: 5
+enter an int: 4
+enter an int: 3
+enter an int: 2
+enter an int: 1
+initial:
+7 6 5 4 3 2 1 
+flipped:
+1 2 3 4 5 6 7 
+do more? n
+-- program is finished running --
