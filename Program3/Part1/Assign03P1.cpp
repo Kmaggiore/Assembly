@@ -46,7 +46,7 @@ int GetOneIntByVal(const char prompt[])
    int oneInt;
    cout << prompt;
    cin >> oneInt;
-   return oneInt;
+   return oneInt
 }
 
 void GetOneIntByAddr(int* intVarToPutInPtr,const char prompt[])
